@@ -8,7 +8,11 @@ public class RESTAPITest {
     {
         System.out.println("Post Jira");
     }
-
+    @Test
+    public void preJira()
+    {
+     System.out.println("Pre Jira");
+    }
     @Test
     public void deleteTwitter()
     {
