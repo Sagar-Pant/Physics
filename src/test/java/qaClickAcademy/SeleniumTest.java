@@ -18,4 +18,9 @@ public class SeleniumTest {
     {
         System.out.println("Selenium Test!!!");
     }
+    @Test
+    public void mySelTest()
+    {
+        System.out.println("Selenium1 Test!!!");
+    }
 }
