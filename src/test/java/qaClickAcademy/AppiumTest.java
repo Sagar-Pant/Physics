@@ -1,7 +1,13 @@
 package qaClickAcademy;
 import org.junit.Test;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 public class AppiumTest {
+    @AfterSuite
+    public void ChromeApps()
+    {
+        System.out.println("Succeessfully Made Chrome Built Apps!!!");
+    }
     @Test
     public void NativeAppAndroid()
     {
