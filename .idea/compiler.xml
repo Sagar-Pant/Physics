@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Maven_Program" />
         <module name="Physics" />
+        <module name="Physics1" />
+        <module name="Maven_Program" />
       </profile>
     </annotationProcessing>
   </component>
