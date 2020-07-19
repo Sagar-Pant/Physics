@@ -2,7 +2,7 @@ package qaClickAcademy;
 
 import org.junit.Test;
 
-public class Physics1 {
+public class PhysicsChapter {
     @Test
     public void MyPhysicsChapter()
     {

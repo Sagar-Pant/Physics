@@ -8,7 +8,6 @@ public class AppiumTest {
     {
         System.out.println("NativeAppAndroid");
     }
-
     @Test
     public void IOSApps()
     {
