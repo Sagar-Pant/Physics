@@ -1,8 +1,11 @@
 package qaClickAcademy;
-
 import org.junit.Test;
-
 public class RESTAPITest {
+    @Test
+    public void QuantumPhysics()
+    {
+        System.out.println("Quantum Implementation");
+    }
     @Test
     public void postJira()
     {
